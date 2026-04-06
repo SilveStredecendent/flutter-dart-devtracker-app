@@ -112,7 +112,7 @@ class PerfilScreen extends StatelessWidget {
                       label: 'Código Limpo',
                       cor: const Color.fromARGB(255, 242, 164, 19),
                     ),
-                  ),
+                  ),             
                 ],
               ),
             ),
